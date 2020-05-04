@@ -53,4 +53,4 @@ Make sure that while installing you check the box to include Python in the PATH
     vtex <mystore.myvtex.com/admin/a>
 ```
 
-Remenber to replace mystore with the name of your store.
+Remember to replace mystore with the name of your store.
